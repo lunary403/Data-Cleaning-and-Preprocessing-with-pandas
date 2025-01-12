@@ -7,7 +7,6 @@ This course provided me with a comprehensive introduction to data cleaning and p
 - **Real-World Problem Solving**: Applied pandas to tackle practical data preprocessing challenges, improving problem-solving skills.  
 - **Advanced Data Manipulation**: Acquired advanced pandas skills to manipulate and analyze data for real-world applications.  
 
-These skills have significantly enhanced my ability to clean and process data efficiently, making me better equipped for data-driven projects.  
 
 
 
