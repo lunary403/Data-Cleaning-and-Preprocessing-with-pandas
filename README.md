@@ -1,6 +1,6 @@
 ## What I Learnt: 365 Data Science's Data Cleaning and Preprocessing with Pandas Course
 
-This course provided a comprehensive introduction to data cleaning and preprocessing using the powerful **pandas** library in Python. Here are the key skills I gained:  
+This course provided me with a comprehensive introduction to data cleaning and preprocessing using the powerful **pandas** library in Python. Here are the key skills I gained:  
 
 - **Pandas Basics**: Installed and imported Python packages, gaining proficiency in working with pandas' `Series` and `DataFrame` objects.  
 - **Data Cleaning Techniques**: Explored various methods to clean and preprocess raw data effectively using pandas.  
